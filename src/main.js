@@ -47,7 +47,7 @@ router.beforeEach((to, from, next) => {
 // 版权信息
 window.mmPlayer = window.mmplayer = `欢迎使用 mmPlayer!
 当前版本为：V${VERSION}
-作者：茂茂
+作者：茂茂 布署：天成锐视
 Github：https://github.com/maomao1996/Vue-mmPlayer
 歌曲来源于互联网`
 // eslint-disable-next-line no-console
